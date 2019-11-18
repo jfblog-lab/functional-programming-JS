@@ -1,0 +1,16 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "développement fonctionnel en Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "développement",
+    "fonctionnel",
+    "Javascript"
+  ],
+  "author": "Guillaume RICHARD",
+  "license": "ISC"
+}
