@@ -7,7 +7,7 @@ let personnes = JSON.parse(fichier)
 let getPerson = personnes.filter(
     personne =>
         personne.age < 45
-        && personne.country === "Germany"
+        && personne.country === "France"
 );
 console.log(getPerson);
 
